@@ -6,7 +6,7 @@ output: html_document
 Link to paper (Scaife et al. 2014): <https://doi.org/10.1002/2013GL059160>{target="_blank"}
 
 ***
-![](figures/qbo.svg)
+![](figures/qbo.svg) 
 
 Data source: <https://www.geo.fu-berlin.de/en/met/ag/strat/produkte/qbo/index.html>{target="_blank"}
 
