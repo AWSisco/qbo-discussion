@@ -1,0 +1,16 @@
+---
+title: "Supplemental figures for ATM 525 9 Apr 2020 journal discussion"
+output: html_document
+---
+***
+Link to paper (Scaife et al. 2014): <https://doi.org/10.1002/2013GL059160>{target="_blank"}
+
+***
+![](figures/qbo.svg)
+
+Data source: <https://www.geo.fu-berlin.de/en/met/ag/strat/produkte/qbo/index.html>{target="_blank"}
+
+***
+![](figures/merryfield.png){width=600px}
+
+Figure source (Merryfield et al. 2020): <https://doi.org/10.1175/BAMS-D-19-0037.1>{target="_blank"}
