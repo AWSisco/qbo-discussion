@@ -3,7 +3,8 @@ title: "Supplemental figures for ATM 525 9 Apr 2020 journal discussion"
 output: html_document
 ---
 ***
-Link to paper (Scaife et al. 2014): <https://doi.org/10.1002/2013GL059160>{target="_blank"}
+Link to paper (Scaife et al. 2014): <https://doi.org/10.1002/2013GL059160>{target="_blank"}  
+Link to summary sheet: <https://awsisco.github.io/qbo-discussion/scaife_summary_sheet.pdf>{target="_blank"}
 
 ***
 ![](figures/qbo.svg)
